@@ -12,8 +12,6 @@
 #ifndef hifi__3dRudderManager_h
 #define hifi__3dRudderManager_h
 
-#include <SDL.h>
-
 #include <controllers/UserInputMapper.h>
 #include <input-plugins/InputPlugin.h>
 #include "3drudderSDK.h"
